@@ -7,6 +7,6 @@ I have used Linear Regression (Machine Learning Algorithm) for prediction. This 
 
 Dataset used : https://raw.githubusercontent.com/AdiPersonalWorks/Random/master/student_scores%20-%20student_scores.csv
 
-Video link : https://drive.google.com/file/d/1FOTDEL848IIqFDyoEVlvpjTnlv3O31rf/view?usp=sharing
+Video link : https://drive.google.com/file/d/1-b0tA1_BSh1zgYnvDzPuwYVywhXp41o2/view?usp=sharing
 
 ## Thankyou ❤ I hope this code is helpful
